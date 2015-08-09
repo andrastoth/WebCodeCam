@@ -12,6 +12,10 @@ WebCodeCam is a jQuery plugin for  barcode and qr-code reading .
 
 <img src = "demo.png"/>
 
+This plugin is no longer supported.
+Please check out the new version :
+* [WebCodeCamJS]
+
 Version
 ----
 
@@ -164,6 +168,7 @@ http://atandrastoth.co.uk/
 
 2014-11-01
 
+[WebCodeCamJS]:https://github.com/andrastoth/webcodecamjs
 [WebCodeCam]:http://atandrastoth.co.uk/main/pages/plugins/codereader/
 [DecoderWorker.js]:https://github.com/EddieLa/BarcodeReader
 [qrcodelib.js]:https://github.com/LazarSoft/jsqrcode
